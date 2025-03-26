@@ -1,4 +1,4 @@
-# ip-2024-1
+# ip-2025-1
 Material da disciplina de Introdução à Programação
 
 ## Tópicos
