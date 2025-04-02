@@ -1,21 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	var num int
-
-	fmt.Println("Escreva um número.")
-	fmt.Scan(&num)
-
-	if num > 0 {
-		fmt.Println("O número é positivo")
-
-	} else if num < 0 {
-		fmt.Println("O número é negativo")
-
-	} else {
-		fmt.Println("O número é nulo")
-	}
-
+	var name string
+	var age int
+	fmt.Print("Forneca o nome e a idade: ")
+	fmt.Scan(&name, &age)
+	fmt.Printf("Ola %s, voce tem %d ano(s) de idade.\n", name, age)
 }
