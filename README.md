@@ -5,3 +5,4 @@ Material da disciplina de Introdução à Programação
 
 - [T01](./topicos/01.md) (26/03/2025 - 26/03/2025)
 - [T02](./topicos/02.md) (26/03/2025 - 28/03/2025)
+- [T03](./topicos/03.md) (23/04/2025 - 23/04/2025)
